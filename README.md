@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 
+# I am Harman
 
-<!--
-**harmansinghcse/harmansinghcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student exploring software by building small tools and applications.
 
-Here are some ideas to get you started:
+## Currently Working On
+- C++ Smart File Manager (organizing files by extension and directory scanning)
+- Finance Tracker (JavaScript web app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **To-Do List Web App**  
+  Simple task manager built with HTML, CSS, and JavaScript.
+
+- **Weather App (Python)**  
+  Uses a weather API to fetch and display live weather data.
+
+- **Finance Tracker**  
+  Web app to record and categorize expenses.
+
+- **C++ File Manager**  
+  Command-line tool that scans directories and organizes files based on extension.
+
+## Interests
+- Systems programming
+- Algorithms
+- Developer tools
+- Web applications
+
+## Tech
+C++, Python, JavaScript, HTML, CSS, Git
+
+## Currently Learning
+- Data structures and algorithms
+- File system handling in C++
+- Building small web applications with JavaScript
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/harman-singh-cse-svnit
