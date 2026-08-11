@@ -1,38 +1,45 @@
-## Hi there 👋 
+# Hi there 👋
+
 # I am Harman
 
-Engineering student exploring software by building small tools and applications.
+Engineering student and software developer interested in understanding how things work by building them from the ground up.
 
-## Currently Working On
-- C++ Smart File Manager (organizing files by extension and directory scanning)
-- Finance Tracker (JavaScript web app)
+I enjoy working across systems, algorithms, developer tools, and full-stack applications — from designing backend architectures to exploring how programming languages and interpreters work internally.
 
 ## Projects
-- **To-Do List Web App**  
-  Simple task manager built with HTML, CSS, and JavaScript.
 
-- **Weather App (Python)**  
-  Uses a weather API to fetch and display live weather data.
+* **Jurassic Explorer**
+  Full-stack dinosaur and palaeontology platform built with React, Node.js, Express, MongoDB, and Cloudinary. Includes a searchable dinosaur database, interactive exploration, quizzes, authentication, editable content, and a structured content acquisition pipeline.
 
-- **Finance Tracker**  
-  Web app to record and categorize expenses.
+* **Interpreter from Scratch**
+  A custom interpreter built from the ground up while exploring the fundamentals of programming language implementation — tokenization, parsing, abstract syntax trees, evaluation, and runtime behavior.
 
-- **C++ File Manager**  
-  Command-line tool that scans directories and organizes files based on extension.
+* **BladeSense**
+  An experimental software project exploring practical applications of intelligent systems and automation.
 
 ## Interests
-- Systems programming
-- Algorithms
-- Developer tools
-- Web applications
+
+* Systems Programming
+* Algorithms & Data Structures
+* Programming Languages
+* Developer Tools
+* Backend Engineering
+* Artificial Intelligence & Machine Learning
+* Understanding how software works beneath the abstraction
 
 ## Tech
-C++, Python, JavaScript, HTML, CSS, Git
+
+C++, Python, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Git
 
 ## Currently Learning
-- Data structures and algorithms
-- File system handling in C++
-- Building small web applications with JavaScript
+
+* Data Structures and Algorithms
+* Operating Systems & Computer Architecture
+* Compilers and Programming Languages
+* Systems Programming
+* Artificial Intelligence & Machine Learning
+* Building software from first principles
 
 ## Contact
+
 LinkedIn: https://www.linkedin.com/in/harman-singh-cse-svnit
